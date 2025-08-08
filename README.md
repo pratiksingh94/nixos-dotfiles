@@ -15,3 +15,12 @@
 - Waybar (Topbar): `/.config/waybar`
 - Bash (shell): `.bashrc`
 - Git (SCM): `.gitconfig`
+
+
+## Previews
+I have uploaded some preview videos on GDrive:
+[snehasishcodes/NixPreviews](https://drive.google.com/drive/folders/1Rv7KiijocrP-7EmO6UeHcz6-hwtMLh6f)
+
+## Discord Server
+If you're here. you definitely wanna join my Discord Server:
+- https://discord.com/invite/K6k6ebkJkx
